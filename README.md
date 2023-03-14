@@ -1,5 +1,7 @@
 # 👋 Hi there, My name is Salim Suleiman
-#### I'm a data analyst
+
+### I'm a data analyst
+---
 
 A passionate data analyst who loves to work with data to make data-driven decisions. I'm a firm believer that data is at the heart of everything, and my goal is to turn complex data into actionable insights that drive business success.
 
